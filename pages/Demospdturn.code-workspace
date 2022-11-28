@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "SSH FS - nick062selab",
+			"uri": "ssh://nick062selab/home/wd226431503062"
+		}
+	],
+	"settings": {}
+}
